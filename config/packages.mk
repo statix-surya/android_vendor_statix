@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
     StatixLauncher \
     StatixSystemUI \
     StatixSettings \
+    StatixBlackTheme \
     ThemePicker
 
 # BtHelper
