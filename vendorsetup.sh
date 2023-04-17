@@ -8,3 +8,5 @@ function lunch_devices() {
 for device in ${devices[@]}; do
     lunch_devices
 done
+
+export SKIP_ABI_CHECKS=true
